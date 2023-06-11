@@ -1,2 +1,2 @@
 # training
-Project used for mentorship training
+Project used for mentorship training with Jenkins
