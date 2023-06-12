@@ -1,14 +1,6 @@
 pipeline {
     agent any
-    stages {
-        stage('Source') {
-            steps {
-                git branch: 'main',
-                    changelog: false,
-                    poll: false,
-                    url: 'https://github.com/georgianaanton/training.git'
-            }
-        }
+    stages{
         stage('Clean') {
             steps {
                 sh 'mvn clean'
@@ -25,13 +17,4 @@ pipeline {
             }
         }
     }
-//     post {
-//         always {
-//             junit allowEmptyResults: true,
-//                 testResults: '**/TEST-com.learningjenkins.AppTest.xml'
-//
-//             archiveArtifacts allowEmptyArchive: true,
-//                 artifacts: '**/training-1.0-SNAPSHOT.jar'
-//         }
-//     }
 }
