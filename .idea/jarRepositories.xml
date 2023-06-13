@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="magento-release" />
+      <option name="name" value="ma-release" />
+      <option name="url" value="https://artifactory.corp.adobe.com:443/artifactory/maven-magento-archetype-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="magento-saas-snapshots" />
+      <option name="name" value="Magento SaaS Snapshots" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-magento-saas-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/central-maven-remote" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="asr-releases" />
+      <option name="name" value="ASR Releases" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-asr-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="asr-snapshots" />
+      <option name="name" value="ASR Snapshots" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-asr-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="magento-saas-releases" />
+      <option name="name" value="Magento SaaS Releases" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-magento-saas-release" />
+    </remote-repository>
+  </component>
+</project>
