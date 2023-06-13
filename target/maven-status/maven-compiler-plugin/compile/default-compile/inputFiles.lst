@@ -1,9 +1,0 @@
-/Users/georgianaanton/work/Mentor/training/src/main/java/com/georgianaa/training/adapters/out/SkillsClient.java
-/Users/georgianaanton/work/Mentor/training/src/main/java/com/georgianaa/training/domain/usecases/RetrieveSkillsUseCase.java
-/Users/georgianaanton/work/Mentor/training/src/main/java/com/georgianaa/training/config/MongoConfig.java
-/Users/georgianaanton/work/Mentor/training/src/main/java/com/georgianaa/training/adapters/out/SkillsRepository.java
-/Users/georgianaanton/work/Mentor/training/src/main/java/com/georgianaa/training/domain/models/Skill.java
-/Users/georgianaanton/work/Mentor/training/src/main/java/com/georgianaa/training/domain/ports/RetrieveSkillsPort.java
-/Users/georgianaanton/work/Mentor/training/src/main/java/com/georgianaa/training/TrainingApplication.java
-/Users/georgianaanton/work/Mentor/training/src/main/java/com/georgianaa/training/adapters/in/rest/SkillController.java
-/Users/georgianaanton/work/Mentor/training/src/main/java/com/georgianaa/training/domain/services/SkillService.java
