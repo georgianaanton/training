@@ -3,11 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.adobe.asr</groupId>
-        <artifactId>asr-parent</artifactId>
-        <!-- Please update your ASR libraries regularly for bug fixes, features, and security patches. -->
-        <!-- See https://git.corp.adobe.com/ASR/asr/releases for the latest ASR releases. -->
-        <version>8.358.0</version>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.1.0</version>
+        <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
 
